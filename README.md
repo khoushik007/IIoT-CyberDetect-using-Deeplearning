@@ -41,15 +41,25 @@ A deep-learning-based Intrusion Detection System (IDS) for the Industrial Intern
 
 ## 📂 Project Structure  
 ├── trustworthy_and_reliable_deep_learning/
+
 │ ├── Template/
+
 │ │ ├── images/ # Screenshots and background images
+
 │ │ ├── *.html # Frontend templates
+
 │ ├── models/ # ML/DL models
+
 │ ├── views.py # Django views
+
 │ ├── urls.py # URL routes
+
 │ ├── settings.py # Django project settings
+
 │ └── ...
+
 ├── requirements.txt
+
 ├── README.md
 
 ---
