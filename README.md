@@ -68,7 +68,7 @@ A deep-learning-based Intrusion Detection System (IDS) for the Industrial Intern
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/<your-username>/IIoT-CyberDetect-using-DeepLearning.git
+git clone https://github.com/<khoushik007>/IIoT-CyberDetect-using-DeepLearning.git
 cd IIoT-CyberDetect-using-DeepLearning
 
 ## Install Dependencies
