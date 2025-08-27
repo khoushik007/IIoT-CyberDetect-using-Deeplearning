@@ -16,17 +16,20 @@ A deep-learning-based Intrusion Detection System (IDS) for the Industrial Intern
 ---
 
 ## 🏗 System Architecture  
-![Architecture](trustworthy_and_reliable_deep_learning/Template/images/bg.jpg)  
+  <img width="785" height="765" alt="image" src="https://github.com/user-attachments/assets/cc7fe688-67e1-4a03-9aed-58c3e735b2ef" />
+
 
 ---
 
 ## 🖼 Screenshots  
 
 ### 🔑 Login Page  
-![Login](trustworthy_and_reliable_deep_learning/Template/images/Login.jpg)  
+<img width="871" height="366" alt="image" src="https://github.com/user-attachments/assets/70ed98a4-c1a9-4084-b319-3f2ccf7c03b5" />
 
-### 📝 Register Page  
-![Register](trustworthy_and_reliable_deep_learning/Template/images/Register.jpg)  
+
+### 📝 Remote user Page  
+<img width="850" height="448" alt="image" src="https://github.com/user-attachments/assets/0b4f4610-9424-4caf-a8a3-a6d183a8589e" />
+
 
 ---
 
